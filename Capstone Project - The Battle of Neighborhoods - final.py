@@ -203,8 +203,8 @@ We now have the relevant geographic information on Manhattan and the neighborhoo
 # In[28]:
 
 
-CLIENT_ID = 'RVSZTHU43D4043V5D2XPDPTSTMQ4UKOYDK3JWME54OER1PF5' 
-CLIENT_SECRET = 'KBO22TUT4MNNJQPUJYTPROM0RFVIQENZMB4ELXAK3SE2QGM0'
+CLIENT_ID = 'XXX' 
+CLIENT_SECRET = 'YYY'
 VERSION = '20180605' # Foursquare API version
 
 print('Your credentails:')
